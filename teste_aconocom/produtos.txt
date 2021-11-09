@@ -1,0 +1,4 @@
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+5 = X-CHESSE, R$15

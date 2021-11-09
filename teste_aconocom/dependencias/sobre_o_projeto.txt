@@ -1,0 +1,45 @@
+SOBRE O PROJETO:
+
+Após a instalação de todas as dependencias para iniciar o projeto segue descrição:
+
+O projeto tem como intuito de realizar uma gestão de pedidos e clientes para uma lanchonete. Sendo possivel realizar:
+
+   . inclusão\exclusão\edição de pedidos
+   
+   . inclusão\exclusao\edição de clientes no sistema
+
+   . inclusão\exclusao\edição de produtos no sistema
+
+   . consulta de pedidos
+
+   . consulta de valores
+
+   . consultar de faturamentos
+
+   . gerar um dashboard em forma de relatório para auxiliar na visualização dos resultados da empresa
+
+
+
+
+PROBLEMAS DURANTE A EXECUÇÃO DO PROJETO:
+
+  Inicialmente a dúvida era qual a forma que usária para salvar as informações do sistema e como gerar os relatórios.
+  Para salvar as informações do sistema, foi utilizado um arquivo txt, onde é guardada toda informação necessária. 
+  Para criar o relatório, foi utilizado a biblioteca "Dash" para gerar um pequeno dashboard.
+
+  Como não tenho tanta experiência com banco de dados, resolvi utilizar o .txt pois acredito que seria mais fácil para a manipulação de informações, mas ao decorrer do desenvolvimento tive algumas travas que demandaram um pouco mais de tempo.
+
+  Após resolver toda a parte de desenvolvimento do sistema, iniciei a criação do dashboard através da biblioteca Dash, entretanto, ao tentar chamar a função para visualizar as informações, o script era finalizado após a conexão com o server local ser iniciada. Dessa forma, o servidor local era finalizado junto com o script e nao era possível acessar a url local para visualização.
+  Por esse motivo, o script onde faz a criação do dashboard está em um arquivo separado dentro da pasta "nome do arquivo: dashboard_relatorio". Para visualiza-lo, basta executar aquele script, e acessar manualmente a url que sera apresentada no console.
+
+
+PROBLEMAS PESSOAIS DURANTE A EXECUÇÃO DO PROJETO:
+   
+  Tive alguns momentos importúnuos que acabaram impactando no desenvolvimento do projeto:
+  
+    . onde acabei ficando sem acesso a internet por um bom tempo durante o final de semana.
+
+    . Hoje 08/11/2021 durante o período da tarde, fui ao mercado e acabei esquecendo a chave do portão em casa. Como moro sozinho, acabei ficando trancado durante algumas horas, o que me impactou no estudo da criação do dashboard onde não consegui contornar a falha de finalização do script após iniciar a comunicação com o servidor.
+
+
+  

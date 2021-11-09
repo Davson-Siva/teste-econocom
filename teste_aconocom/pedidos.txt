@@ -1,0 +1,91 @@
+Cliente: Davson Telefone: 12345678
+3 = X-TUDO, R$20
+3 = X-TUDO, R$20
+Cliente: Maria Telefone: 12345678
+3 = X-TUDO, R$20
+5 = BATATA FRITA, R$15
+3 = X-TUDO, R$20
+5 = BATATA FRITA, R$15
+Cliente: marcos Telefone: 12345678
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+Cliente: jefferson Telefone: 12345678
+0 = X-BACON, R$20
+4 = X-HERO, R$25
+2 = X-SALADA, R$15
+5 = X-CHESSE, R$15
+4 = X-HERO, R$25
+2 = X-SALADA, R$15
+5 = X-CHESSE, R$15
+Cliente: jefersson Telefone: 154786214
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+Cliente: jefferson Telefone: 15478963
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+Cliente: miriam Telefone: 12345678
+4 = X-HERO, R$25
+2 = X-SALADA, R$15
+0 = X-BACON, R$20
+4 = X-HERO, R$25
+2 = X-SALADA, R$15
+0 = X-BACON, R$20
+Cliente: patrick Telefone: 14785235
+0 = X-BACON, R$20
+0 = X-BACON, R$20
+Cliente: maria Telefone: 74851456
+5 = X-CHESSE, R$15
+
+Cliente: gabriel Telefone: 95652314
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+Cliente: emerson Telefone: 17486532
+0 = X-BACON, R$20
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+4 = X-HERO, R$25
+Cliente: jose Telefone: 85946521
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+0 = X-BACON, R$20
+2 = X-SALADA, R$15
+4 = X-HERO, R$25
+Cliente: davson Telefone: 79541586
+0 = X-BACON, R$20
+4 = X-HERO, R$25
+5 = X-CHESSE, R$15
+2 = X-SALADA, R$15
+
+Cliente: joao Telefone: 97532145
+2 = X-SALADA, R$15
+
+4 = X-HERO, R$25
+
+5 = X-CHESSE, R$15
+0 = X-BACON, R$20
+
+4 = X-HERO, R$25
+
+Cliente: petria Telefone: 54213659
+0 = X-BACON, R$20
+
+4 = X-HERO, R$25
+
+5 = X-CHESSE, R$15

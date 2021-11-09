@@ -1,0 +1,6 @@
+requerimentos:
+
+pip install dash
+pip install os
+pip install collections-extended
+pip install pandas
